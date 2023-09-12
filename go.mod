@@ -1,4 +1,4 @@
-module customfmt
+module github.com/sufimalek/customfmt
 
 go 1.20
 
